@@ -1,0 +1,54 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "c:/users/ongr/desktop/learn-react-typescript-3/src/ch2/03-project-references/shared/src/utils.ts": {
+        "version": "0c489bd2fa81b7be8953ff06ee0eff46f1ec6e3bb0738c775e41225541320836",
+        "signature": "b4c5847a57c4aa7d6ad635c479ae014c033d7c9b5b85f4977f2679d89f66b681"
+      }
+    },
+    "options": {
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "target": 1,
+      "outDir": "C:/Users/ongr/Desktop/learn-react-typescript-3/src/ch2/03-project-references/shared/dist",
+      "module": 5,
+      "sourceMap": true,
+      "noImplicitReturns": true,
+      "noImplicitAny": true,
+      "rootDir": "C:/Users/ongr/Desktop/learn-react-typescript-3/src/ch2/03-project-references/shared/src",
+      "configFilePath": "C:/Users/ongr/Desktop/learn-react-typescript-3/src/ch2/03-project-references/shared/tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "c:/users/ongr/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "c:/users/ongr/desktop/learn-react-typescript-3/src/ch2/03-project-references/shared/src/utils.ts"
+    ]
+  },
+  "version": "3.4.1"
+}

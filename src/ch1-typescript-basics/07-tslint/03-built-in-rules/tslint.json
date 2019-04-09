@@ -1,0 +1,9 @@
+{
+  "extends": ["tslint:recommended"],
+  /*"rules": {
+    "interface-name": false
+  },*/
+  "linterOptions": {
+    "exclude": ["node_modules/**/*.ts"]
+  }
+}
